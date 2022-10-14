@@ -1,4 +1,4 @@
-I am a software architect turned writer-slash-photographer (and ***not*** the other way around). Follow me on [Instagram](https://www.instagram.com/zecanard) while I bring up my online store!
+Former software architect turned writer-slash-photographer (and ***not*** the other way around). Follow me on [Instagram](https://www.instagram.com/zecanard/) while I bring up my online store!
 
 <!--
 **zecanard/zecanard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
